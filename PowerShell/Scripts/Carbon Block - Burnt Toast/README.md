@@ -1,0 +1,1 @@
+This is based on the Burnt Toast Module (https://github.com/Windos/BurntToast). This is runs in windows task scheduler as a job that looks for Event ID 22, which is carbon black blocking stuff. When found in the event log, it will run the powershell script that will display a popup that will also give a link to the carbon black server url.
