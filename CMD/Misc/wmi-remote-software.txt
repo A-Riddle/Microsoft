@@ -1,0 +1,1 @@
+wmic /node:<computername>" product get name,version
